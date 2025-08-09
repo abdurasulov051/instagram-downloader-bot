@@ -1,1 +1,1 @@
-worker: python robust_instagram_bot.py 
+worker: python web_bot.py 
