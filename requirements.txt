@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+instaloader==4.10.1
+boto3==1.34.0
+requests==2.31.0
+python-dotenv==1.0.0
+aiofiles==23.2.1
+asyncio-throttle==1.0.2
+Pillow>=9.0.0
+yt-dlp
+Flask==2.3.3 
